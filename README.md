@@ -13,4 +13,4 @@ Python Implementation of Level Set Based Contour Evolution on Brain MRI Images
 
 ## Define
 
-<img src="https://render.githubusercontent.com/render/math?math=c^2 = a^2 \+ b^2">
+<img src="https://render.githubusercontent.com/render/math?math='c^2 = a^2 + b^2'">
