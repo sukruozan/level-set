@@ -10,6 +10,7 @@ Python Implementation of Level Set Based Contour Evolution on Brain MRI Images. 
   <img src="Evolution/20211008-130919.gif" width="256" /> 
 </p>
 
+<!---
 ## Define
 - <img src="https://latex.codecogs.com/gif.latex?c^2=b^2+a^2">
-
+-->
